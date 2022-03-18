@@ -55,7 +55,7 @@ body {
   background: linear-gradient(230.65deg, #1b48ab 27.49%, #fa1dce 83.19%);
   margin-top: 32px;
   padding: 32px;
-  box-shawdow: 2px 2px 4px rgba(16,16,0.42);
+  box-shadow: 2px 2px 4px rgba(16,16,0.42);
   border-radius: 20px;
 }
 .projetos-titulos {
